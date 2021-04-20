@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+}
+
+.kontakty {
+    display: flex;
+    background-color: lightgray;
+    height: 450px;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    max-width: 1300px;
+}
+h1 {
+    font-size: 2rem;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin: 0;
+}
+
+p {
+    font-size: 0.8rem;
+    margin: 0;
+    padding: 0 1rem;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    margin-top: 2rem;
+}
+
+.icons img{
+    width: 35px;
+    border-radius: 0px;
+}
+
+.hanka, 
+.jana,
+.marketa,
+.monika {
+    background-color: white;
+    height: 85%;
+    width: 22%;
+    border-radius: 10px;
+    text-align: center;
+}
+
